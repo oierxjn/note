@@ -3,6 +3,9 @@
 这个储存库用于存放我各种各样的笔记  
 希望这些笔记能对一些人有帮助  
 # 目录
+[Using PicGo to Build Picture Hosting on Github(English)](https://github.com/oierxjn/note/blob/main/Notes/Using_PicGo_to_Build_Picture_Hosting_on_Github.md)  
+[利用PicGo搭建Github图床(SChinese)](https://github.com/oierxjn/note/blob/main/Notes/利用PicGo搭建Github图床.md)  
+关键词:Picture Hosting,Picture Hosting Service,图床
 
 # 写在后面
 创建这个储存库的最初想法是，方便让像我这种找不到网络资源的人能够找到所需要的内容。  
